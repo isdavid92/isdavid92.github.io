@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/isdavid92.github.io/build/static/css/main.18317315.css",
+    "main.js": "/isdavid92.github.io/build/static/js/main.96634525.js",
+    "static/js/787.a2d1897a.chunk.js": "/isdavid92.github.io/build/static/js/787.a2d1897a.chunk.js",
+    "static/media/tecnicam.jpg": "/isdavid92.github.io/build/static/media/tecnicam.5a28f1bd1b123caceb15.jpg",
+    "static/media/renault.jpg": "/isdavid92.github.io/build/static/media/renault.74371295decdc8af8a65.jpg",
+    "static/media/energitelco.jpg": "/isdavid92.github.io/build/static/media/energitelco.125c7a5c46c8e4d434dd.jpg",
+    "static/media/sena.jpg": "/isdavid92.github.io/build/static/media/sena.8984396a9ca9a9d2168e.jpg",
+    "static/media/als.jpg": "/isdavid92.github.io/build/static/media/als.2219f6dd76c6e7e4d8fc.jpg",
+    "static/media/isra.jpg": "/isdavid92.github.io/build/static/media/isra.7f23b9f20a643a47b4a2.jpg",
+    "index.html": "/isdavid92.github.io/build/index.html",
+    "main.18317315.css.map": "/isdavid92.github.io/build/static/css/main.18317315.css.map",
+    "main.96634525.js.map": "/isdavid92.github.io/build/static/js/main.96634525.js.map",
+    "787.a2d1897a.chunk.js.map": "/isdavid92.github.io/build/static/js/787.a2d1897a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18317315.css",
+    "static/js/main.96634525.js"
+  ]
+}
