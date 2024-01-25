@@ -2,7 +2,6 @@
   "name": "portafolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://isdavid92.github.io/isdavid92.github.io/build",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -11,7 +10,9 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.21.3",
     "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "scripts": {
     "start": "react-scripts start",
